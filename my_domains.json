@@ -5,16 +5,12 @@
       "domain_suffix": [
         "test-ipv6.com",
         "dnsleaktest.com",
-        "googleusercontent.com",
-        "googleapis.com",
         "googlevideo.com",
         "ggpht.com",
         "youtube.com",
         "youtu.be",
         "ytimg.com",
         "youtubekids.com",
-        "news.google.com",
-        "play.google.com",
         "flibusta.site",
         "nnmclub.to",
         "nnmstatic.win",
@@ -58,6 +54,12 @@
         "tmdb.org",
         "themoviedatabase.org",
         "cloudflare-ech.com",
+        "xnxx-ru.com",
+        "xnxx.com",
+        "xv-ru.com",
+        "xvideos.com",
+        "motherless.com",
+        "pornolab.net"
         "ntc.party"
       ],
       "domain_keyword": [
