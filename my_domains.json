@@ -8,6 +8,7 @@
         "cdninstagram.com",
         "chatgpt.com",
         "copilot.microsoft.com",
+        "carinfo.kiev.ua",
         "designer.microsoft.com",
         "dnsleaktest.com",
         "facebook.com",
@@ -23,6 +24,10 @@
         "intel.com",
         "imdb.com",
         "megapeer.ru",
+        "lastvin.com",
+        "mbdecoder.com",
+        "mb.vin",
+        "motherless.com",
         "nnmclub.to",
         "openai.com",
         "pornolab.net",
@@ -31,11 +36,10 @@
         "seasonvar.zone",
         "test-ipv6.com",
         "themoviedatabase.org",
-        "www.themoviedb.org",
-        "themoviedb.org",
         "thepiratebay.org",
         "tmdb.org",
         "torrent.by",
+        "thetvdb.com",
         "xnxx-ru.com",
         "xnxx.com",
         "xv-ru.com",
@@ -58,7 +62,11 @@
         "thetvdb",
         "pornolab",
         "xvideos",
-        "xnxx"
+        "xnxx",
+        "motherless",
+        "lastvin",
+        "carinfo",
+        "mbdecoder"
       ]
     }
   ]
